@@ -51,10 +51,10 @@ EaseBuddy/
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](assets/homepage.png)
+![Homepage](homepage.png)
 
 ### Subject Selection
-![Subjects](assets/subject-selection.png)
+![Subjects](subject-selection.png)
 
 
 ## 🙌 Author
