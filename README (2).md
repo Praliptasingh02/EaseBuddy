@@ -59,7 +59,7 @@ EaseBuddy/
 
 ## 🙌 Author
 
-**Mandvi-Shukla**  
-📫 [Mandvi-Shukla](https://github.com/Mandvi-Shukla)
+**Praliptasingh02**  
+📫 [Praliptasingh02](https://github.com/Praliptasingh02)
 
 ---
